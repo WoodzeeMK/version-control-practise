@@ -1,2 +1,3 @@
-name = input("Enter your name: ")
-print("Hello " + name)
+user_name = input("Enter your name: ")
+print("Hello " + user_name)
+
